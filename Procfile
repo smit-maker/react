@@ -1,1 +1,1 @@
-web: gunicorn todo_drf.wsgi
+web: gunicorn django_react_starter.wsgi --log-file -
