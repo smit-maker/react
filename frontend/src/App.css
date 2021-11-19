@@ -8,6 +8,8 @@ body{
   
   }
   .testing {
+    height: 100px;
+    width: 100px;
     transition: 400ms;
   }
   .testing:hover {
